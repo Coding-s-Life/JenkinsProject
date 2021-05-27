@@ -1,0 +1,13 @@
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Test_Dev\Sample_Jenkins_C_Sharp_Project\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
